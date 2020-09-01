@@ -1,0 +1,21 @@
+<?php defined('SYSPATH') or die('No direct access allowed.');
+
+return
+[
+    'default' => [
+        'type'        => 'PostgreSQL',
+        'connection'  => [
+            'hostname'   => 'localhost',
+            'port'       => '5432',
+            'username'   => '',
+            'password'   => '',
+            'persistent' => FALSE,
+            'database'   => ''
+        ],
+        'primary_key'  => '',
+        'schema'       => '',
+        'table_prefix' => '',
+        'charset'      => 'utf8',
+        'caching'      => FALSE
+    ]
+];

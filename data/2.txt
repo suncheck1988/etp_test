@@ -1,0 +1,15 @@
+192.168.1.1|Internet Explorer|FreeBSD
+192.168.1.2|Firefox|iOS
+192.168.1.3|Safari|Android
+192.168.1.4|Opera|Windows
+192.168.1.5|Chrome|CentOS
+192.168.1.6|Atom|Arch Linux
+192.168.1.7|Baidu Browser|Red Hat
+192.168.1.8|Galeon|WebTV
+192.168.1.9|Cheetah Browser|YunOs
+192.168.1.10|Chromium|Xubuntu
+192.168.1.11|Firefox Focus|Symbian OS
+192.168.1.12|Centaury|palmOS
+192.168.1.13|BlackBerry Browser|TmaxOS
+192.168.1.14|Jio Browser|Xbox
+192.168.1.15|GNOME Web|MorphOS
